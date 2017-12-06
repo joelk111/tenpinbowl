@@ -1,0 +1,25 @@
+INSERT INTO Teams VALUES (1, 'Warriors');
+INSERT INTO Teams VALUES (2, 'Wildcats');
+INSERT INTO Teams VALUES (3, 'Mighty Ducks');
+INSERT INTO Teams VALUES (4, 'Saints');
+INSERT INTO Teams VALUES (5, 'Pirates');
+INSERT INTO Teams VALUES (6, 'Ravens');
+
+INSERT INTO Players VALUES (1, 'John', 'Dunbar', 6, 15);
+INSERT INTO Players VALUES (2, 'Bud', 'Fox', 6, 2);
+INSERT INTO Players VALUES (3, 'William', 'Munny', 6, 9);
+INSERT INTO Players VALUES (4, 'Bill', 'Compton', 5, 18);
+INSERT INTO Players VALUES (5, 'Derek', 'Smalls', 5, 6);
+INSERT INTO Players VALUES (6, 'Karl', 'Stromberg', 5, 14);
+INSERT INTO Players VALUES (7, 'Frodo', 'Baggins', 4, 9);
+INSERT INTO Players VALUES (8, 'Jason', 'Bourne', 4, 12);
+INSERT INTO Players VALUES (9, 'Ivan', 'Drago', 4, 11);
+INSERT INTO Players VALUES (10, 'Johnny', 'Utah', 3, 1);
+INSERT INTO Players VALUES (11, 'Michael', 'Clayton', 3, 5);
+INSERT INTO Players VALUES (12, 'Ben', 'Grimm', 3, 12);
+INSERT INTO Players VALUES (13, 'Billy', 'Elliot', 2, 8);
+INSERT INTO Players VALUES (14, 'Austin', 'Powers', 2, 11);
+INSERT INTO Players VALUES (15, 'Ron', 'Burgundy', 2, 10);
+INSERT INTO Players VALUES (16, 'Ferris', 'Bueller', 1, 6);
+INSERT INTO Players VALUES (17, 'Jean-Luc', 'Picard', 1, 9);
+INSERT INTO Players VALUES (18, 'Harry', 'Callahan', 1, 15);
