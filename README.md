@@ -27,4 +27,4 @@ To run the SQL application, build with maven and run the file called sql/Databas
  *sql/DatabaseDriver- provides the driver for the SQL challenges, both required and bonus. The H2 database is embedded for ease of usage. All required SQL scripts, both provided and generated are found in the resources folder.
  
  
- 
+ ![Java CI with Maven](https://github.com/joelk111/tenpinbowl/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
